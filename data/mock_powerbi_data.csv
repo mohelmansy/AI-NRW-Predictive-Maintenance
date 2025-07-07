@@ -1,0 +1,201 @@
+Asset_ID,Zone,Asset_Type,Run_Hours,Vibration,Temperature,Pressure,Failure,KPI_ResponseTime,KPI_RepairSLA,KPI_Reporting,KPI_Feedback,Contract_Name
+A-0000,West,Valve,19077,2.36,80.5,3.1,No,82,99,81,86,O&M Bundle A
+A-0001,Central,Valve,9311,1.9,78.0,3.01,No,78,98,96,90,O&M Bundle A
+A-0002,East,Valve,18214,2.19,82.1,7.48,No,90,97,88,74,O&M Bundle A
+A-0003,Central,Sensor,15098,1.76,97.1,3.94,No,82,85,81,82,O&M Bundle A
+A-0004,Central,Sensor,6177,2.96,95.0,3.58,No,78,81,79,83,O&M Bundle B
+A-0005,South,Pump,15262,1.46,59.2,8.45,No,80,86,96,72,O&M Bundle A
+A-0006,East,Pump,9308,1.15,62.9,6.48,No,73,79,79,81,Urban Zone
+A-0007,East,Sensor,6949,1.94,58.9,4.11,Yes,71,99,97,96,Pilot Region
+A-0008,East,Valve,2150,1.7,67.5,5.33,Yes,98,92,76,92,O&M Bundle B
+A-0009,Central,Pump,2931,1.16,75.5,7.92,No,75,71,95,62,O&M Bundle A
+A-0010,West,Sensor,10204,2.18,77.4,6.04,Yes,83,96,96,78,Pilot Region
+A-0011,East,Sensor,19048,0.84,59.7,6.93,No,73,75,80,82,O&M Bundle B
+A-0012,Central,Sensor,2081,4.23,56.3,6.21,No,75,74,89,88,Pilot Region
+A-0013,South,Valve,17896,1.01,67.4,6.4,No,88,73,95,89,O&M Bundle A
+A-0014,West,Sensor,14407,1.85,84.2,5.06,No,75,78,84,98,O&M Bundle A
+A-0015,South,Sensor,8805,2.1,85.9,5.02,No,71,77,97,84,Urban Zone
+A-0016,West,Sensor,6237,4.18,92.1,5.4,Yes,87,89,98,96,O&M Bundle A
+A-0017,Central,Sensor,17943,0.77,74.7,6.1,No,82,66,81,67,O&M Bundle A
+A-0018,North,Pump,13775,2.64,83.3,4.58,No,78,99,79,75,O&M Bundle B
+A-0019,West,Pump,17244,3.54,85.1,5.18,Yes,92,71,75,67,Urban Zone
+A-0020,South,Sensor,14184,2.19,70.0,4.53,No,88,85,87,60,O&M Bundle B
+A-0021,Central,Valve,4343,1.33,78.9,5.17,No,82,82,95,64,Pilot Region
+A-0022,West,Pump,14500,2.39,81.6,3.12,No,80,67,92,62,O&M Bundle A
+A-0023,North,Sensor,10662,4.03,65.9,8.91,No,70,75,87,60,Pilot Region
+A-0024,North,Pump,17964,1.88,91.4,3.9,No,93,88,95,63,O&M Bundle B
+A-0025,East,Pump,16125,3.94,74.6,4.46,No,99,83,95,99,O&M Bundle A
+A-0026,East,Valve,9130,2.76,75.9,3.77,No,91,68,92,94,O&M Bundle A
+A-0027,South,Sensor,2679,3.73,65.5,5.92,Yes,76,90,79,91,O&M Bundle B
+A-0028,West,Sensor,4506,2.72,67.2,4.71,No,94,96,87,93,O&M Bundle B
+A-0029,West,Valve,14284,2.02,53.0,3.55,No,90,97,78,84,O&M Bundle B
+A-0030,East,Valve,8253,4.14,75.6,5.99,Yes,84,67,91,69,O&M Bundle B
+A-0031,West,Sensor,10435,2.73,100.1,6.19,No,70,73,77,80,O&M Bundle B
+A-0032,West,Sensor,12310,2.67,64.8,4.9,No,81,72,91,98,O&M Bundle A
+A-0033,North,Valve,14296,3.31,104.8,4.0,No,95,97,85,86,O&M Bundle B
+A-0034,East,Pump,19525,3.42,89.1,8.29,No,76,70,95,86,O&M Bundle A
+A-0035,Central,Pump,14245,3.31,70.3,5.51,No,84,68,94,61,O&M Bundle A
+A-0036,East,Valve,12151,1.15,75.3,3.09,No,90,77,97,72,O&M Bundle B
+A-0037,Central,Pump,11457,1.86,73.6,7.12,No,88,66,95,68,O&M Bundle B
+A-0038,North,Valve,3479,1.84,92.1,3.72,No,97,69,78,95,Urban Zone
+A-0039,South,Pump,5452,1.72,80.2,9.11,No,98,91,76,81,O&M Bundle A
+A-0040,West,Pump,6881,1.63,86.8,5.12,No,94,96,94,85,O&M Bundle B
+A-0041,North,Sensor,15069,1.83,78.6,6.52,No,70,85,90,71,O&M Bundle B
+A-0042,West,Sensor,3849,2.84,73.9,1.88,No,86,72,92,76,O&M Bundle B
+A-0043,South,Pump,8390,2.99,78.3,3.07,No,86,72,82,73,Urban Zone
+A-0044,South,Pump,12922,2.5,70.9,7.0,No,72,67,77,73,Urban Zone
+A-0045,North,Sensor,3489,2.07,60.5,5.48,No,81,67,83,93,Pilot Region
+A-0046,South,Sensor,10823,3.78,83.1,8.06,No,75,86,94,79,O&M Bundle A
+A-0047,Central,Sensor,10207,2.41,60.0,5.73,Yes,95,70,80,70,Pilot Region
+A-0048,South,Valve,10540,3.44,72.3,5.22,Yes,80,66,84,75,O&M Bundle B
+A-0049,West,Pump,17364,1.93,70.6,7.57,No,72,87,95,90,Urban Zone
+A-0050,West,Sensor,5611,2.91,81.4,6.52,No,77,66,84,65,Urban Zone
+A-0051,West,Pump,6878,3.84,90.6,4.71,No,83,81,87,78,Pilot Region
+A-0052,West,Valve,17347,-0.11,87.0,3.36,No,83,99,91,96,Urban Zone
+A-0053,Central,Valve,1851,1.84,81.7,1.44,No,79,98,83,63,O&M Bundle B
+A-0054,East,Sensor,19071,3.09,68.7,4.34,No,71,87,91,63,Urban Zone
+A-0055,North,Valve,7833,3.71,73.2,3.22,No,83,94,98,79,Pilot Region
+A-0056,West,Pump,12938,2.7,71.7,8.9,No,78,72,83,69,O&M Bundle B
+A-0057,South,Sensor,3427,2.55,70.3,4.02,No,72,86,83,83,Pilot Region
+A-0058,West,Pump,5000,4.11,71.0,3.98,No,90,69,75,94,Urban Zone
+A-0059,South,Pump,6052,3.77,70.7,2.72,No,95,77,76,85,Pilot Region
+A-0060,South,Valve,3738,1.63,70.3,4.6,Yes,77,93,90,96,Pilot Region
+A-0061,West,Valve,6387,2.62,84.5,4.0,Yes,85,95,75,97,O&M Bundle A
+A-0062,Central,Valve,9002,2.86,64.5,7.61,Yes,71,80,84,80,Urban Zone
+A-0063,South,Valve,6536,4.22,67.7,5.25,No,75,94,92,99,Urban Zone
+A-0064,South,Valve,14479,3.37,59.2,4.99,No,97,80,82,98,Pilot Region
+A-0065,West,Sensor,4913,2.4,89.2,4.8,No,90,76,95,80,O&M Bundle A
+A-0066,South,Pump,18450,2.72,67.0,6.18,No,98,81,85,69,Urban Zone
+A-0067,South,Pump,11636,0.62,81.6,4.32,Yes,95,80,97,97,O&M Bundle B
+A-0068,West,Pump,6726,3.47,79.8,6.0,No,94,76,76,63,Pilot Region
+A-0069,West,Pump,4373,3.15,88.2,7.42,No,81,72,82,79,Urban Zone
+A-0070,North,Valve,13161,3.71,72.9,5.69,No,74,84,96,76,O&M Bundle B
+A-0071,Central,Pump,3082,2.36,65.5,4.63,No,71,67,82,66,Urban Zone
+A-0072,Central,Sensor,17281,2.63,59.4,3.57,No,85,80,91,63,O&M Bundle B
+A-0073,South,Sensor,16305,2.02,47.2,4.59,Yes,74,94,89,88,Pilot Region
+A-0074,Central,Pump,10817,1.35,76.6,5.84,No,84,87,91,73,Urban Zone
+A-0075,South,Pump,12261,1.9,82.8,2.7,No,81,92,97,62,Urban Zone
+A-0076,North,Sensor,1417,0.68,79.7,6.25,No,73,69,98,83,O&M Bundle A
+A-0077,West,Sensor,9808,3.41,59.7,5.31,No,84,84,87,96,Pilot Region
+A-0078,West,Valve,4267,0.33,85.4,4.78,No,80,65,93,75,O&M Bundle B
+A-0079,West,Sensor,18209,4.53,68.0,4.01,No,85,94,79,63,Urban Zone
+A-0080,Central,Valve,6745,0.74,65.9,4.29,No,92,85,86,83,Urban Zone
+A-0081,North,Valve,12338,4.0,67.8,5.9,No,75,84,75,93,O&M Bundle B
+A-0082,Central,Valve,1412,1.59,75.8,4.81,No,83,70,97,89,Pilot Region
+A-0083,Central,Valve,8543,3.06,60.2,4.25,No,87,86,79,77,O&M Bundle A
+A-0084,North,Valve,8587,1.75,74.6,5.7,Yes,81,82,82,78,O&M Bundle A
+A-0085,North,Pump,1728,4.17,79.3,5.76,No,96,72,87,90,Urban Zone
+A-0086,North,Sensor,12657,2.54,86.1,3.13,No,80,96,82,78,O&M Bundle B
+A-0087,North,Valve,6988,3.57,76.8,5.86,No,82,97,99,78,Urban Zone
+A-0088,West,Sensor,19888,2.58,61.6,8.75,No,90,80,97,81,O&M Bundle B
+A-0089,East,Sensor,3967,2.85,76.5,5.7,No,92,76,85,83,O&M Bundle A
+A-0090,East,Valve,15527,3.12,64.4,2.45,No,80,98,75,71,Pilot Region
+A-0091,North,Pump,17048,1.97,63.8,5.27,No,92,78,87,89,O&M Bundle B
+A-0092,East,Valve,18506,1.22,61.4,2.25,No,85,97,93,97,O&M Bundle A
+A-0093,East,Pump,18955,1.2,55.9,9.75,No,84,87,98,90,Urban Zone
+A-0094,North,Sensor,6073,2.55,69.3,8.35,No,90,66,77,95,O&M Bundle B
+A-0095,East,Pump,6104,2.01,86.3,4.0,No,97,85,98,78,Pilot Region
+A-0096,Central,Pump,3143,0.35,97.6,1.63,No,84,66,91,95,Urban Zone
+A-0097,South,Pump,8357,3.01,69.3,3.68,No,94,91,79,89,Urban Zone
+A-0098,South,Sensor,13043,1.28,85.9,4.73,No,73,73,94,92,O&M Bundle A
+A-0099,North,Sensor,4440,1.34,71.1,2.36,No,80,65,95,77,O&M Bundle B
+A-0100,West,Pump,6644,2.46,58.5,4.9,No,88,75,82,87,Urban Zone
+A-0101,North,Pump,11518,1.6,82.0,4.72,No,84,67,88,70,Pilot Region
+A-0102,West,Valve,15552,2.62,77.3,5.19,No,73,87,78,92,O&M Bundle B
+A-0103,South,Pump,3914,4.47,93.2,5.34,No,90,90,85,76,Pilot Region
+A-0104,North,Valve,14584,2.12,59.7,3.55,Yes,82,68,94,65,Urban Zone
+A-0105,Central,Pump,13144,1.44,103.0,3.72,No,91,82,89,63,Pilot Region
+A-0106,East,Valve,15397,2.68,90.9,5.07,Yes,88,70,93,79,O&M Bundle A
+A-0107,West,Sensor,9787,1.72,74.8,4.05,No,71,99,81,86,Pilot Region
+A-0108,East,Pump,15191,2.52,72.0,6.36,No,83,86,93,74,O&M Bundle B
+A-0109,East,Pump,1728,2.82,67.8,5.05,No,98,79,93,65,Pilot Region
+A-0110,North,Pump,18749,2.46,76.1,7.8,No,73,86,85,73,Pilot Region
+A-0111,East,Pump,1698,2.56,73.2,6.23,Yes,85,76,79,70,O&M Bundle A
+A-0112,Central,Valve,8186,2.69,80.1,6.66,No,90,82,79,98,Pilot Region
+A-0113,East,Pump,15512,4.1,72.1,5.2,No,89,99,96,68,Pilot Region
+A-0114,North,Sensor,14923,2.25,89.1,5.24,No,83,94,82,85,Urban Zone
+A-0115,Central,Sensor,17779,2.63,76.3,7.6,No,96,88,84,75,Urban Zone
+A-0116,South,Pump,8400,3.37,72.4,4.43,Yes,98,94,80,64,O&M Bundle B
+A-0117,East,Sensor,5171,2.97,85.2,5.82,No,84,78,89,69,Urban Zone
+A-0118,North,Pump,5360,2.14,58.8,4.6,No,97,70,90,62,Urban Zone
+A-0119,South,Pump,3502,3.4,78.4,4.6,No,72,67,91,72,Urban Zone
+A-0120,South,Sensor,18101,1.63,75.3,3.25,No,77,80,82,89,Urban Zone
+A-0121,West,Pump,6486,2.27,60.9,3.89,No,85,71,82,65,O&M Bundle A
+A-0122,Central,Sensor,9335,1.73,57.9,3.61,No,79,78,99,76,Urban Zone
+A-0123,East,Valve,5491,3.08,85.1,5.89,No,73,73,83,78,O&M Bundle A
+A-0124,North,Pump,12130,3.69,84.6,6.56,No,99,79,76,94,O&M Bundle A
+A-0125,West,Valve,8651,2.72,76.7,4.86,No,87,85,89,85,Urban Zone
+A-0126,Central,Sensor,2167,2.58,92.2,5.34,No,71,99,92,64,Pilot Region
+A-0127,West,Valve,2062,1.62,79.4,4.77,Yes,86,66,77,88,O&M Bundle A
+A-0128,Central,Valve,19540,1.8,87.5,3.78,No,82,91,91,96,Pilot Region
+A-0129,Central,Sensor,12174,1.31,79.2,6.29,No,73,66,78,79,Pilot Region
+A-0130,East,Valve,5729,0.32,72.2,5.98,No,95,99,78,80,Urban Zone
+A-0131,Central,Valve,10348,2.11,64.4,2.16,No,94,82,88,69,O&M Bundle B
+A-0132,West,Sensor,6334,2.2,69.0,4.58,No,99,78,83,64,Urban Zone
+A-0133,Central,Valve,9924,4.67,72.4,3.68,No,80,84,83,95,O&M Bundle B
+A-0134,East,Sensor,5330,4.06,88.6,4.41,No,76,82,99,65,O&M Bundle B
+A-0135,East,Valve,7801,3.06,82.7,3.99,No,81,74,97,85,Urban Zone
+A-0136,West,Sensor,5846,4.58,78.3,4.93,No,79,89,92,63,Urban Zone
+A-0137,South,Sensor,7731,3.89,83.7,4.51,No,76,66,84,98,O&M Bundle B
+A-0138,South,Valve,16368,0.49,80.3,4.47,No,82,89,95,98,Urban Zone
+A-0139,Central,Valve,18337,3.57,77.6,6.66,No,76,97,78,94,O&M Bundle B
+A-0140,North,Valve,3539,3.21,60.0,5.84,No,93,95,86,60,Pilot Region
+A-0141,Central,Pump,8056,2.21,86.4,3.94,No,86,78,82,83,Urban Zone
+A-0142,West,Pump,12516,1.08,70.4,4.17,No,79,65,76,95,Pilot Region
+A-0143,West,Pump,12493,3.1,85.9,5.74,Yes,98,80,96,65,O&M Bundle A
+A-0144,West,Sensor,2542,0.42,86.9,5.74,No,79,67,87,90,Pilot Region
+A-0145,West,Valve,14964,2.48,68.3,4.09,Yes,93,99,95,79,Pilot Region
+A-0146,West,Sensor,18575,1.88,84.5,4.65,No,73,70,90,83,O&M Bundle B
+A-0147,East,Pump,7313,1.24,71.4,7.77,Yes,89,89,76,84,Pilot Region
+A-0148,South,Valve,18924,3.69,71.4,4.12,No,73,77,85,95,Urban Zone
+A-0149,West,Sensor,14807,2.46,77.6,7.87,No,91,98,84,80,O&M Bundle B
+A-0150,North,Valve,10580,2.67,77.8,6.66,Yes,76,72,89,89,O&M Bundle A
+A-0151,North,Sensor,18749,3.41,75.4,7.59,Yes,91,85,91,83,Urban Zone
+A-0152,North,Valve,9691,2.49,61.7,4.06,Yes,70,98,82,89,O&M Bundle A
+A-0153,North,Pump,8494,2.95,73.8,4.75,No,81,68,92,81,Pilot Region
+A-0154,East,Pump,5312,3.32,97.8,4.33,No,93,89,97,87,Urban Zone
+A-0155,North,Valve,2324,3.07,47.2,6.69,No,82,79,83,66,Urban Zone
+A-0156,West,Sensor,4141,2.79,83.7,4.15,No,79,68,99,94,O&M Bundle A
+A-0157,Central,Pump,2810,4.28,85.6,6.1,No,84,76,82,87,Urban Zone
+A-0158,North,Pump,7588,3.74,61.4,6.02,Yes,96,96,88,73,Urban Zone
+A-0159,East,Pump,6301,2.41,70.3,4.93,No,82,96,99,69,Urban Zone
+A-0160,East,Valve,16485,1.59,65.0,6.95,No,92,92,92,75,Pilot Region
+A-0161,North,Valve,12714,3.14,93.5,5.16,No,91,77,96,75,O&M Bundle A
+A-0162,Central,Sensor,5748,2.72,86.0,6.25,No,91,95,94,90,Urban Zone
+A-0163,North,Sensor,10435,4.21,86.5,4.26,No,90,78,94,84,O&M Bundle B
+A-0164,East,Sensor,4709,3.49,76.2,3.91,No,91,84,95,72,O&M Bundle B
+A-0165,South,Valve,14116,3.26,88.1,6.1,No,97,82,86,65,O&M Bundle B
+A-0166,West,Valve,10576,2.51,74.9,5.65,Yes,78,93,93,68,O&M Bundle B
+A-0167,East,Sensor,11150,1.62,88.6,5.36,Yes,95,70,88,95,Pilot Region
+A-0168,North,Sensor,7530,2.3,73.5,4.48,Yes,78,96,91,79,Urban Zone
+A-0169,West,Valve,11188,2.98,68.2,7.32,No,84,93,98,77,O&M Bundle A
+A-0170,North,Sensor,15683,0.77,93.1,3.33,No,79,66,95,80,Urban Zone
+A-0171,North,Pump,1504,3.74,74.8,3.24,Yes,93,87,77,63,Pilot Region
+A-0172,South,Valve,2214,4.57,66.0,6.41,Yes,95,83,97,92,O&M Bundle B
+A-0173,West,Sensor,2531,0.56,65.9,6.29,No,94,95,81,86,Pilot Region
+A-0174,West,Valve,1823,1.1,65.9,5.53,Yes,98,69,91,66,Urban Zone
+A-0175,South,Pump,18312,2.73,83.4,4.57,No,79,83,86,65,O&M Bundle A
+A-0176,East,Valve,6029,1.92,74.0,5.75,No,77,98,83,74,Pilot Region
+A-0177,North,Valve,14428,2.76,98.0,7.58,No,93,74,89,77,O&M Bundle A
+A-0178,Central,Valve,17517,2.43,86.9,8.77,No,85,89,92,91,Pilot Region
+A-0179,North,Valve,3105,1.48,77.6,2.52,No,86,66,95,70,O&M Bundle A
+A-0180,North,Pump,4627,3.79,89.0,4.37,No,95,75,87,79,O&M Bundle A
+A-0181,East,Valve,13972,2.96,70.0,4.28,Yes,96,95,95,83,O&M Bundle B
+A-0182,North,Valve,2852,1.94,56.5,7.44,No,74,79,82,74,O&M Bundle A
+A-0183,South,Sensor,5910,4.01,65.1,1.28,No,73,73,88,66,O&M Bundle B
+A-0184,South,Valve,12003,1.99,76.5,5.77,No,87,87,82,80,Urban Zone
+A-0185,West,Sensor,14843,1.26,72.8,4.61,No,93,83,88,85,Urban Zone
+A-0186,Central,Pump,12704,2.68,83.2,7.46,Yes,88,73,81,73,O&M Bundle B
+A-0187,North,Pump,16761,2.85,73.8,7.25,No,73,99,97,96,O&M Bundle B
+A-0188,North,Pump,7190,3.03,82.5,5.55,No,97,85,86,80,Pilot Region
+A-0189,East,Pump,18640,3.2,90.0,2.63,No,76,73,85,77,Pilot Region
+A-0190,South,Sensor,6645,3.02,73.7,4.14,No,79,92,96,64,Pilot Region
+A-0191,Central,Valve,10588,2.98,80.6,4.3,No,94,71,96,62,Urban Zone
+A-0192,West,Pump,12829,1.93,57.5,3.01,No,87,80,85,82,Pilot Region
+A-0193,South,Valve,9053,1.82,73.8,6.73,No,88,80,99,85,O&M Bundle A
+A-0194,West,Sensor,4330,3.24,62.7,2.82,No,73,97,96,96,O&M Bundle A
+A-0195,East,Sensor,9662,2.74,76.5,7.95,Yes,79,68,87,83,Pilot Region
+A-0196,East,Sensor,8114,3.32,77.4,7.94,No,70,68,92,78,O&M Bundle A
+A-0197,North,Pump,14323,0.79,77.3,4.42,No,92,81,76,84,Urban Zone
+A-0198,Central,Valve,2353,2.0,70.2,5.49,No,87,93,95,80,O&M Bundle A
+A-0199,West,Valve,11975,4.41,98.0,4.89,No,74,99,89,71,Urban Zone
