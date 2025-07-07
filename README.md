@@ -3,7 +3,7 @@
 ![Maintenance Banner](https://img.shields.io/badge/Maintenance-Predictive-blue) ![Power BI](https://img.shields.io/badge/Dashboard-PowerBI-yellow) ![Python](https://img.shields.io/badge/Python-Data%20Science-green)
 
 ## 📌 Overview
-This repository presents an **AI-powered predictive maintenance system** designed and deployed for the **National Water Company (NWC) of Saudi Arabia**. It utilizes historical O&M data, SCADA readings, and operational logs to anticipate equipment failures and automate KPI tracking across critical utility assets.
+This repository presents an **AI-powered predictive maintenance system**. It utilizes historical O&M data, SCADA readings, and operational logs to anticipate equipment failures and automate KPI tracking across critical utility assets.
 
 Developed as part of a digital transformation strategy, this system improved asset reliability, reduced reporting time, and empowered 100+ engineers through actionable dashboards and real-time analytics.
 
