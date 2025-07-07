@@ -24,8 +24,8 @@ Developed as part of a digital transformation strategy, this system improved ass
 | 🔼 Asset Uptime                    | +22% Improvement                   |
 | ⏱️ Reporting Time Reduction        | -40% Faster                        |
 | 📊 KPI Accuracy                    | +30% Consistency across branches   |
-| 👨‍💼 Engineers Trained              | 100+ Across 13 Regions             |
-| 🌐 Stakeholder System Adoption     | National Rollout by NWC            |
+| 👨‍💼 Engineers Trained              | 100+ Across 13 Regions              |
+| 🌐 Stakeholder System Adoption     | Projects' Maangers                 |
 
 ---
 
